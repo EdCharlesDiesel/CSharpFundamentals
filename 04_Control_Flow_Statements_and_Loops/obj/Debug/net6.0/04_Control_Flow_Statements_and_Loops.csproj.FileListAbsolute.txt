@@ -1,0 +1,15 @@
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\bin\Debug\net6.0\04_Control_Flow_Statements_and_Loops.exe
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\bin\Debug\net6.0\04_Control_Flow_Statements_and_Loops.deps.json
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\bin\Debug\net6.0\04_Control_Flow_Statements_and_Loops.runtimeconfig.json
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\bin\Debug\net6.0\04_Control_Flow_Statements_and_Loops.dll
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\bin\Debug\net6.0\04_Control_Flow_Statements_and_Loops.pdb
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.csproj.AssemblyReference.cache
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.AssemblyInfoInputs.cache
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.AssemblyInfo.cs
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.csproj.CoreCompileInputs.cache
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.dll
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\refint\04_Control_Flow_Statements_and_Loops.dll
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.pdb
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\04_Control_Flow_Statements_and_Loops.genruntimeconfig.cache
+C:\x\CSharpFundamentals\04_Control_Flow_Statements_and_Loops\obj\Debug\net6.0\ref\04_Control_Flow_Statements_and_Loops.dll
