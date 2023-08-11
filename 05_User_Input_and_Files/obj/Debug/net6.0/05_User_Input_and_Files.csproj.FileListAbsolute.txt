@@ -1,0 +1,15 @@
+C:\x\CSharpFundamentals\05_User_Input_and_Files\bin\Debug\net6.0\05_User_Input_and_Files.exe
+C:\x\CSharpFundamentals\05_User_Input_and_Files\bin\Debug\net6.0\05_User_Input_and_Files.deps.json
+C:\x\CSharpFundamentals\05_User_Input_and_Files\bin\Debug\net6.0\05_User_Input_and_Files.runtimeconfig.json
+C:\x\CSharpFundamentals\05_User_Input_and_Files\bin\Debug\net6.0\05_User_Input_and_Files.dll
+C:\x\CSharpFundamentals\05_User_Input_and_Files\bin\Debug\net6.0\05_User_Input_and_Files.pdb
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.csproj.AssemblyReference.cache
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.AssemblyInfoInputs.cache
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.AssemblyInfo.cs
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.csproj.CoreCompileInputs.cache
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.dll
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\refint\05_User_Input_and_Files.dll
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.pdb
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\05_User_Input_and_Files.genruntimeconfig.cache
+C:\x\CSharpFundamentals\05_User_Input_and_Files\obj\Debug\net6.0\ref\05_User_Input_and_Files.dll
