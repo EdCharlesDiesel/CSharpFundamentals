@@ -3,7 +3,6 @@ C:\x\CSharpFundamentals\ConsoleApp1\bin\Debug\net6.0\01_GettingStarted.deps.json
 C:\x\CSharpFundamentals\ConsoleApp1\bin\Debug\net6.0\01_GettingStarted.runtimeconfig.json
 C:\x\CSharpFundamentals\ConsoleApp1\bin\Debug\net6.0\01_GettingStarted.dll
 C:\x\CSharpFundamentals\ConsoleApp1\bin\Debug\net6.0\01_GettingStarted.pdb
-C:\x\CSharpFundamentals\ConsoleApp1\obj\Debug\net6.0\01_GettingStarted.csproj.AssemblyReference.cache
 C:\x\CSharpFundamentals\ConsoleApp1\obj\Debug\net6.0\01_GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
 C:\x\CSharpFundamentals\ConsoleApp1\obj\Debug\net6.0\01_GettingStarted.AssemblyInfoInputs.cache
 C:\x\CSharpFundamentals\ConsoleApp1\obj\Debug\net6.0\01_GettingStarted.AssemblyInfo.cs

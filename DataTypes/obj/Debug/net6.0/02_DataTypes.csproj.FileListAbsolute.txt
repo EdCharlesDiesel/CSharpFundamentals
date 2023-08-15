@@ -3,7 +3,6 @@ C:\x\CSharpFundamentals\DataTypes\bin\Debug\net6.0\02_DataTypes.deps.json
 C:\x\CSharpFundamentals\DataTypes\bin\Debug\net6.0\02_DataTypes.runtimeconfig.json
 C:\x\CSharpFundamentals\DataTypes\bin\Debug\net6.0\02_DataTypes.dll
 C:\x\CSharpFundamentals\DataTypes\bin\Debug\net6.0\02_DataTypes.pdb
-C:\x\CSharpFundamentals\DataTypes\obj\Debug\net6.0\02_DataTypes.csproj.AssemblyReference.cache
 C:\x\CSharpFundamentals\DataTypes\obj\Debug\net6.0\02_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
 C:\x\CSharpFundamentals\DataTypes\obj\Debug\net6.0\02_DataTypes.AssemblyInfoInputs.cache
 C:\x\CSharpFundamentals\DataTypes\obj\Debug\net6.0\02_DataTypes.AssemblyInfo.cs
