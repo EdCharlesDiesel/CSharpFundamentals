@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_GettingStarted", "Consol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_DataTypes", "DataTypes\02_DataTypes.csproj", "{C8FB3B3B-5B63-4DD4-B2F1-99909F0F7A07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DateTime", "03_DateTime\03_DateTime.csproj", "{B942AF67-89A2-4E29-858F-62B6A6D6B451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_DateTime", "03_DateTime\03_DateTime.csproj", "{B942AF67-89A2-4E29-858F-62B6A6D6B451}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Control_Flow_Statements_and_Loops", "04_Control_Flow_Statements_and_Loops\04_Control_Flow_Statements_and_Loops.csproj", "{88163743-B5A8-4641-99AE-1AE62EE4E0E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Control_Flow_Statements_and_Loops", "04_Control_Flow_Statements_and_Loops\04_Control_Flow_Statements_and_Loops.csproj", "{88163743-B5A8-4641-99AE-1AE62EE4E0E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_User_Input_and_Files", "05_User_Input_and_Files\05_User_Input_and_Files.csproj", "{40B50163-A197-4DAD-A0D1-CDF20502279A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_User_Input_and_Files", "05_User_Input_and_Files\05_User_Input_and_Files.csproj", "{40B50163-A197-4DAD-A0D1-CDF20502279A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Functions", "06_Functions\06_Functions.csproj", "{78606D1B-6628-4C61-B6A9-DD05D4D728B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Functions", "06_Functions\06_Functions.csproj", "{78606D1B-6628-4C61-B6A9-DD05D4D728B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Interfaces_and_Abstract_Classes", "07_Interfaces_and_Abstract_Classes\07_Interfaces_and_Abstract_Classes.csproj", "{291E415C-4285-4D8E-8077-6D3FA5C20CA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291E415C-4285-4D8E-8077-6D3FA5C20CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291E415C-4285-4D8E-8077-6D3FA5C20CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291E415C-4285-4D8E-8077-6D3FA5C20CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291E415C-4285-4D8E-8077-6D3FA5C20CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

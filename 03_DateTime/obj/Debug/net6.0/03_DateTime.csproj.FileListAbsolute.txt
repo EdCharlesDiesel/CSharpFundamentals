@@ -3,7 +3,6 @@ C:\x\CSharpFundamentals\03_DateTime\bin\Debug\net6.0\03_DateTime.deps.json
 C:\x\CSharpFundamentals\03_DateTime\bin\Debug\net6.0\03_DateTime.runtimeconfig.json
 C:\x\CSharpFundamentals\03_DateTime\bin\Debug\net6.0\03_DateTime.dll
 C:\x\CSharpFundamentals\03_DateTime\bin\Debug\net6.0\03_DateTime.pdb
-C:\x\CSharpFundamentals\03_DateTime\obj\Debug\net6.0\03_DateTime.csproj.AssemblyReference.cache
 C:\x\CSharpFundamentals\03_DateTime\obj\Debug\net6.0\03_DateTime.GeneratedMSBuildEditorConfig.editorconfig
 C:\x\CSharpFundamentals\03_DateTime\obj\Debug\net6.0\03_DateTime.AssemblyInfoInputs.cache
 C:\x\CSharpFundamentals\03_DateTime\obj\Debug\net6.0\03_DateTime.AssemblyInfo.cs

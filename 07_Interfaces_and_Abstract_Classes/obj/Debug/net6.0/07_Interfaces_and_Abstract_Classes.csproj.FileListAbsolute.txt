@@ -1,0 +1,14 @@
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\bin\Debug\net6.0\07_Interfaces_and_Abstract_Classes.exe
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\bin\Debug\net6.0\07_Interfaces_and_Abstract_Classes.deps.json
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\bin\Debug\net6.0\07_Interfaces_and_Abstract_Classes.runtimeconfig.json
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\bin\Debug\net6.0\07_Interfaces_and_Abstract_Classes.dll
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\bin\Debug\net6.0\07_Interfaces_and_Abstract_Classes.pdb
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.AssemblyInfoInputs.cache
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.AssemblyInfo.cs
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.csproj.CoreCompileInputs.cache
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.dll
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\refint\07_Interfaces_and_Abstract_Classes.dll
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.pdb
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\07_Interfaces_and_Abstract_Classes.genruntimeconfig.cache
+C:\x\CSharpFundamentals\07_Interfaces_and_Abstract_Classes\obj\Debug\net6.0\ref\07_Interfaces_and_Abstract_Classes.dll
