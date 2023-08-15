@@ -1,0 +1,14 @@
+C:\x\CSharpFundamentals\06_Functions\bin\Debug\net6.0\06_Functions.exe
+C:\x\CSharpFundamentals\06_Functions\bin\Debug\net6.0\06_Functions.deps.json
+C:\x\CSharpFundamentals\06_Functions\bin\Debug\net6.0\06_Functions.runtimeconfig.json
+C:\x\CSharpFundamentals\06_Functions\bin\Debug\net6.0\06_Functions.dll
+C:\x\CSharpFundamentals\06_Functions\bin\Debug\net6.0\06_Functions.pdb
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.AssemblyInfoInputs.cache
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.AssemblyInfo.cs
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.csproj.CoreCompileInputs.cache
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.dll
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\refint\06_Functions.dll
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.pdb
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\06_Functions.genruntimeconfig.cache
+C:\x\CSharpFundamentals\06_Functions\obj\Debug\net6.0\ref\06_Functions.dll
