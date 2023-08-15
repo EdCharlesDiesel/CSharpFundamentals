@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Control_Flow_Statements_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_User_Input_and_Files", "05_User_Input_and_Files\05_User_Input_and_Files.csproj", "{40B50163-A197-4DAD-A0D1-CDF20502279A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Functions", "06_Functions\06_Functions.csproj", "{78606D1B-6628-4C61-B6A9-DD05D4D728B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{40B50163-A197-4DAD-A0D1-CDF20502279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B50163-A197-4DAD-A0D1-CDF20502279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B50163-A197-4DAD-A0D1-CDF20502279A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78606D1B-6628-4C61-B6A9-DD05D4D728B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
